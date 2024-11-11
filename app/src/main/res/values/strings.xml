@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">PMDM Tarea 1</string>
+    <string name="text_primera">La primera aplicación móvil Android de Alejandro Pérez Soto.</string>
+    <string name="btn_Finalizar">Finalizar</string>
+</resources>

@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="text_primera">La primera aplicación móvil Android de Alejandro Pérez Soto.</string>
+    <string name="btn_Finalizar">Finalizar</string>
+</resources>
